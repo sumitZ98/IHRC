@@ -1,1 +1,1 @@
-# elstar-ts
+# IHRC-ts
